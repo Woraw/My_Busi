@@ -1,11 +1,4 @@
-section class="page-header">
-      <h1 class="project-name">mybusi</h1>
-      <h2 class="project-tagline"></h2>
-      
-        <a href="https://github.com/pittaya2541/mybusi" class="btn">View on GitHub</a>
-      
-      
-    </section>
+
 
 <p><a>ผมชื่อ นายวรวัช ไชยธิ</a><br />
 <a>รหัสนักศึกษา 5808311007</a><br />
