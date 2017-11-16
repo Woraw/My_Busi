@@ -7,6 +7,6 @@
 <a>มหาวิทยาลัยเนชั่น จังหวัดสำปาง</a><br />
 <a>และนี่คือผลงานเว็บไซต์ทั้2 เว็บที่ข้าพเจ้าได้รับโจทย์คำสั่ง ซึ่งอาจไม่เป็นไปตามเงื่อนไข 100% คือ </a><br />
 
-<a>1. หน้าเว็บ Northwind <a href="https://worawatest.000webhostapp.com/index.php">-&gt;คลิ๊ก&lt;-</a> จากเว็บ www.awardspace.com </a><br />
-<a>2. หน้าเว็บ Northwind <a href="http://taxtest.atwebpages.com/Mybusi/index.php">-&gt;คลิ๊ก&lt;-</a> จากเว็บ www.000webhost.com </a><br /></a></p>
+<a>1. หน้าเว็บ Northwind <a href="http://taxtest.atwebpages.com/Mybusi/index.php">-&gt;คลิ๊ก&lt;-</a> จากเว็บ www.awardspace.com </a><br />
+<a>2. หน้าเว็บ Northwind <a href="https://worawatest.000webhostapp.com/index.php">-&gt;คลิ๊ก&lt;-</a> จากเว็บ www.000webhost.com </a><br /></a></p>
 
